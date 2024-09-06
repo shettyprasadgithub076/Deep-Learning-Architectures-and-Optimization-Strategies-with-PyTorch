@@ -1,4 +1,4 @@
-# PyTorch Journey
+# Deep Learning Architectures and Optimization Strategies with PyTorch
 
 This repository contains a comprehensive exploration of deep learning concepts and techniques using PyTorch. The project covers everything from basic tensor operations to advanced neural network architectures.
 ## Key Features
