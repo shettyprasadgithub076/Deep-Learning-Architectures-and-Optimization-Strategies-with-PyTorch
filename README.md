@@ -33,4 +33,4 @@ This repository contains a comprehensive exploration of deep learning concepts a
 - **Batch Normalization**: Applied to stabilize and accelerate training.
 - **Convolutional Layers**: Detailed use of convolution, stride, padding, activation functions, and max pooling.
 
-This project serves as an extensive guide to developing, optimizing, and deploying deep learning models in PyTorch, with a focus on practical applications and real-world use cases.
+This project serves as an extensive guide to developing, optimizing, and deploying deep learning models in PyTorch, with a focus on practical applications.
