@@ -13,6 +13,9 @@ This repository contains a comprehensive exploration of deep learning concepts a
   - **Advanced Optimizers**: SGD with Momentum, Nesterov Momentum, Adagrad, RMSprop, Adam, NAdam, Rprop.
 - **Training, Testing, and Validation**: Detailed processes for model training, testing, and validation.
 - **Classification Models**: Logistic regression, softmax, and deep neural networks (DNNs) for classification tasks.
+- **Regularization Techniques**: Implementation of dropout and weight initialization using the Xavier method.
+- **Batch Normalization**: Applied to stabilize and accelerate training.
+- **Convolutional Layers**: Detailed use of convolution, stride, padding, activation functions, and max pooling.
 - **Model Architectures**: Implementation of several key architectures:
   - **LeNet-5**
   - **AlexNet** (with fine-tuning and pretraining)
@@ -27,10 +30,3 @@ This repository contains a comprehensive exploration of deep learning concepts a
   - **Multi-Face Classification**: Handling multiple classes in face recognition tasks.
   - **HOG+NN for Object Localization**: Object localization on the MNIST dataset using HOG features and neural networks.
 
-## Highlights
-
-- **Regularization Techniques**: Implementation of dropout and weight initialization using the Xavier method.
-- **Batch Normalization**: Applied to stabilize and accelerate training.
-- **Convolutional Layers**: Detailed use of convolution, stride, padding, activation functions, and max pooling.
-
-This project serves as an extensive guide to developing, optimizing, and deploying deep learning models in PyTorch, with a focus on practical applications.
